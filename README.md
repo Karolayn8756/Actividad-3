@@ -261,7 +261,7 @@ El repositorio contiene:
 - Documento teórico en PDF.
 - Código fuente completo.
 - Script SQL.
-- Diapositivas en PDF y PowerPoint.
+- Diapositivas en PDF.
 - Guía del ejercicio práctico.
 - Carpeta para evidencias de ejecución.
 
@@ -278,7 +278,7 @@ En la carpeta `evidencias` se pueden incluir capturas de:
 7. Consulta de estudiantes.
 8. Actualización de un registro.
 9. Eliminación de un estudiante.
-10. Resultado final en MySQL.
+
 
 ## Conclusión
 
