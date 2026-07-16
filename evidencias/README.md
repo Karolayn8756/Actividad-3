@@ -1,4 +1,4 @@
-# Evidencias sugeridas
+# Evidencias 
 Capturas:
 
 1. MySQL con la base `universidad_java` creada, Tabla `estudiantes` creada.
