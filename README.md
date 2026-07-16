@@ -67,8 +67,8 @@ CRUD_Estudiantes_Java_MySQL_Completo/
 ├── docs/
 │   ├── Documento_Teorico_CRUD_Java_MySQL.pdf
 │   ├── Diapositivas_CRUD_Java_MySQL.pdf
-│   ├── Diapositivas_CRUD_Java_MySQL.pptx
-│   └── Guia_Ejercicio_CRUD_Estudiantes.pdf
+│   └── Guia_Ejercicio_CRUD_Estudiantes.pdf  
+│  
 └── evidencias/
     └── README.md
 ```
