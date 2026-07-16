@@ -1,0 +1,19 @@
+# Archivos generados por Maven
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.log
+*.tmp
+
+# Credenciales locales
+.env
+db.properties
