@@ -2,7 +2,6 @@
 -- Base de datos: universidad_java
 -- Autora: Karolayn Paola Buñay Pérez
 -- Tema: CRUD completo en Java con MySQL
--- Asignatura: Desarrollo de Sistemas de Información
 -- Descripción: Script para crear y poblar la tabla estudiantes
 -- =====================================================
 
